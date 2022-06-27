@@ -1,0 +1,9 @@
+Oatmeal: 1.5
+Blue Berries: 0.5
+Banana: 326
+Whole Milk: 2
+Adult Vitamins: 8
+Nectarine: 1
+Coffee Cookie: 1
+Milk Chocolate Rice Cake: 1
+stop
